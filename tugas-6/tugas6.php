@@ -58,7 +58,7 @@
                                 <select name="pendidikan" class="form-select" multiple required>
                                     <option value="kosong" selected>= Pilih Pendidikan =</option>
                                     <option value="SMA/SMK">SMA/SMK</option>
-                                    <option value="D#">D3</option>
+                                    <option value="D3">D3</option>
                                     <option value="S1">S1</option>
                                     <option value="lain-lain">Lain-lain</option>
                                 </select>
