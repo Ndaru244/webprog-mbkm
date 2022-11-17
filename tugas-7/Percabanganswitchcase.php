@@ -12,7 +12,7 @@
         <div class="row">
             <div class="col">
                 <div class="card text-center position-absolute top-50 start-50 translate-middle" style="width: 50%">
-                    <h4 class="mt-3"><b>Percabangan IF ELSE Majemuk</b></h4>
+                    <h4 class="mt-3"><b>Percabangan IF ELSE Switch Case</b></h4>
                     <hr>
                     <p><b><i>
                         <?php
